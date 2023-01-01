@@ -351,6 +351,6 @@ const languages = [
     no: "59",
     name: "Somali",
     native: "Somali",
-    code: "So",
+    code: "so",
   },
 ];
